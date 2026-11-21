@@ -1,0 +1,16 @@
+{
+  "_说明": "复制本文件为 friends.json 后填写自己的好友。name 必须与抖音私信会话列表里显示的名字完全一致；user_id 可选，填了之后同名好友也能区分；enabled 设为 false 可临时停发。",
+  "douyin": [
+    {
+      "name": "示例好友A",
+      "user_id": "",
+      "enabled": true
+    },
+    {
+      "name": "示例好友B",
+      "user_id": "",
+      "enabled": true
+    }
+  ],
+  "kuaishou": []
+}

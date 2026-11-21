@@ -1,0 +1,29 @@
+# 登录态（含 Cookie，切勿提交或外传）
+storage_state*.json
+state/
+
+# 个人好友名单（含真实昵称，提交前务必保留在本地）
+friends.json
+friends.local.json
+
+# 运行产物
+logs/
+records/
+*.log
+
+# 环境变量
+.env
+.env.*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

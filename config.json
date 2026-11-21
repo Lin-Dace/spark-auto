@@ -1,0 +1,45 @@
+{
+  "send_window": {
+    "start": "08:00",
+    "end": "22:00",
+    "jitter_seconds": 300
+  },
+  "friend_interval_seconds": {
+    "min": 5,
+    "max": 60
+  },
+  "max_retries": 2,
+  "headless": false,
+  "browser_channel": "chrome",
+  "sticker_enabled": true,
+  "sticker_resource_id": "1687263059740",
+  "sticker_fallback_index": 12,
+  "platforms": {
+    "douyin": {
+      "enabled": true,
+      "messages_url": "https://www.douyin.com/chat"
+    },
+    "kuaishou": {
+      "enabled": false,
+      "messages_url": "https://www.kuaishou.com/message"
+    }
+  },
+  "message_pool": [
+    "今天也来续个火花，别断啦 🔥",
+    "打卡打卡，火花续上～",
+    "冒个泡，证明我还在 😎",
+    "过来续火花，顺便看看你",
+    "火花不能断，我先来报到 🔥",
+    "今日份打卡，一切顺利 ✅",
+    "路过，顺手把火花续了",
+    "记得按时吃饭，火花我帮你续上了 🍚",
+    "一条消息，火花 +1",
+    "每天都在，火花不掉队",
+    "来啦，今天也要开心 😄",
+    "续个火花，明天见 👋",
+    "没什么事，就是来续个火花",
+    "火花还在，我也还在 ✨",
+    "打个卡，火花继续燃烧 🔥",
+    "今天过得怎么样？"
+  ]
+}
